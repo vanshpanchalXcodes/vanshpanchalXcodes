@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vansh
 
-<!--
-**vanshpanchalXcodes/vanshpanchalXcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (React, Node.js) based in Leicester, UK.
+I built full-stack apps in a commercial role and I'm now returning to tech.
 
-Here are some ideas to get you started:
+## What I work with
+JavaScript, React, Next.js, Node.js, Express, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning right now
+TypeScript, SQL (PostgreSQL), testing and deployment
+
+## Projects
+- Inventory Management System (MERN) - link coming soon
+- E-commerce storefront (React) - link coming soon
+
+## Contact
+LinkedIn: www.linkedin.com/in/vansh-panchal-526772384
